@@ -6,10 +6,14 @@ published: true
 
 My uncle has graciously donated me Mac Computers in the past since he had no more use for them and through my work at Pre-Fortress 2 we needed Mac compilers. I wanted to return the favor by making him his own NAS! He has used Drive bays before but never had something quite like this. I told him about my Pi OMV NAS using an RPi 2B with a 4TB hard drive living inside of a dollar store jewelry case and he wanted one for himself! I refused to make something as basic and DIY.
 
+[comment]: Add link to post about DIY homelab when post comes out
+
 
 For months I have been looking at NASs and saving up money to buy him one of his own. This was a thank you gift after all, it should be damn nice! After talking to him about it for some time he was confused on why it took so long. I told him I wanted only the best parts and wouldn't settle for less.
 
 When I told him about how much hard drives cost for servers he looked at me confused. "Dude I have a bin full of hard drives. Let's just use those!" I asked him what we should do about the NAS and he told me to just use his old iMac Pro he had sitting in the corner of his room. It wasn't going anywhere so might as well use it as a Samba and Jellyfin server. 
+
+[comment]: Include image iMac  Pro
 
 As for where the drives would live, some time back he gave me a 4-drive bay that I could use for any project. Thus I brought it back to him in hopes of using it for this project. There was one problem though... *Thunderbolt 2*.
 
@@ -25,7 +29,9 @@ It brought the project to a screeching halt and something my uncle neglected to 
 
 <img width="700" alt="Mac Mini Circa 2015 connected to Thunderbolt 2 Drive bay" src="{{site.baseurl}}/assets/images/uncles-server/macminibay.png">
 
-I took the bay and 4 drives home and sure enough it worked fine on my 10.14 Mojave Mac Mini. Something else I noticed was that the iMac had Thunderbolt firmware of 28.4, I believe it might be too high to support Thunderbolt 2. Any research I've done on this topic was inconclusive so I hope it's as simple as installing Mojave on the iMac. I have read that some people have experienced luck with [installing 1.8.5 Mountain Lion and reinstalling Thunderbolt Firmware updates(https://www.ifixit.com/Answers/View/481122/Thunderbolt+Port+not+working+correctly!)].
+I took the bay and 4 drives home and sure enough it worked fine on my 10.14 Mojave Mac Mini. Something else I noticed was that the iMac had Thunderbolt firmware of 28.4, I believe it might be too high to support Thunderbolt 2. Any research I've done on this topic was inconclusive so I hope it's as simple as installing Mojave on the iMac. I have read that some people have experienced luck with [installing 1.8.5 Mountain Lion and reinstalling Thunderbolt Firmware updates](https://www.ifixit.com/Answers/View/481122/Thunderbolt+Port+not+working+correctly!)].
+
+[comment]: Include image of firmware number
 
 <img width="700" alt="macOS Mojave showing drives in disk utility." src="{{site.baseurl}}/assets/images/uncles-server/mojavedrives.png">
 
