@@ -31,3 +31,9 @@ comments:
 
 plugins:
  - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values: 
+      image: true
