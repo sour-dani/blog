@@ -23,13 +23,15 @@ The drives did not show up at all! I was worried that the drives or the bay itse
 
 It brought the project to a screeching halt and something my uncle neglected to tell me was the computer had **lost the ability to use Thunderbolt 2 after upgrading to 10.15**. Welp, there's your issue there! He said it's why he gave me the bay to begin with, his machine just refused to use it. 
 
-I took the bay and 4 drives home and sure enough it worked fine on my 10.14 Mojave Mac Mini. Something else I noticed was that the iMac had Thunderbolt firmware of 28.4, I believe it might be too high to support Thunderbolt 2. Any research I've done on this topic was inconclusive so I hope it's as simple as installing Mojave on the iMac. I have read that some people have experienced luck with installing 1.8.9 Mountain Lion and reinstalling Thunderbolt Firmware updates.
+<img width="700" alt="Mac Mini Circa 2015 connected to Thunderbolt 2 Drive bay" src="{{site.baseurl}}/assets/images/uncles-server/macminibay.png">
 
-<img width="700" alt="Server IP with Port" src="{{site.baseurl}}/assets/images/uncles-server/mojavedrives.png">
+I took the bay and 4 drives home and sure enough it worked fine on my 10.14 Mojave Mac Mini. Something else I noticed was that the iMac had Thunderbolt firmware of 28.4, I believe it might be too high to support Thunderbolt 2. Any research I've done on this topic was inconclusive so I hope it's as simple as installing Mojave on the iMac. I have read that some people have experienced luck with [installing 1.8.5 Mountain Lion and reinstalling Thunderbolt Firmware updates(https://www.ifixit.com/Answers/View/481122/Thunderbolt+Port+not+working+correctly!)].
+
+<img width="700" alt="macOS Mojave showing drives in disk utility." src="{{site.baseurl}}/assets/images/uncles-server/mojavedrives.png">
 
 All that's left to do is take the bay back over there and give it a try. I will be prepared this time. I have Mojave installed on one of the bay drives so I can quickly boot into Mojave on the iMac. 
 
-<img width="700" alt="Server IP with Port" src="{{site.baseurl}}/assets/images/uncles-server/mojavepartition.png">
+<img width="700" alt="Drive bay with drive showing Mojave partition" src="{{site.baseurl}}/assets/images/uncles-server/mojavepartition.png">
 
 In my effort to hopefully bypass some weird Mac shenanigans, I installed Debian on the iMac Pro with no luck. He didn't read the drives. I tried to wipe it when I was there but it just couldn't read the Mojave install USB. I tried burning the USB in multiple ways but all in failure. I'm not to sure how I'll manage that one.
 
