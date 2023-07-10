@@ -3,15 +3,15 @@ title: "The Quest for ClassiCube - Mac OS X 10.4 installer booting from FireWire
 layout: post
 ---
 
-<img alt="Mac OS X 10.4 Tiger install from FireWire Drive" src="/assets/images/classicubeg3install/g3tigerinstall1.png">
+<img alt="Mac OS X 10.4 Tiger install from FireWire Drive" src="{{site.baseurl}}/assets/images/classicubeg3install/g3tigerinstall1.png">
 
 6 days ago **Action Retro** posted an [IP to his ClassiCube server on twitter](https://twitter.com/ActionRetro1/status/1675976443908505601). In the tweet he stated *"Connecting from old Macs in encouraged, but not required :)"* and I took that personally. I have a 2001 slot loader iMac that I bought for a decent price on Mercari and I pretty much specifically bought it to play [Bugdom](https://github.com/jorio/Bugdom/releases) natively.
 
 With that being said I quickly downloaded the ClassiCube client from [macintoshgarden](https://macintoshgarden.org/games/minecraft-152) only to have it display `Invalid Address`. I was certain I had the correct IP address! It was practically copy and pasted from the tweet! What I realized was that for some reason it *really* wanted a port. After some quick digging and testing from a modern machine I was able to the port for the server. I was able to enter in the full address now, it would start to boot into the server but it would give some `curl` error and then crash when the game window loaded.
 
-<img alt="curl binary error" src="/assets/images/classicubeg3install/curlerror.png">
+<img alt="curl binary error" src="{{site.baseurl}}/assets/images/classicubeg3install/curlerror.png">
 
-<img alt="Server IP with Port" src="/assets/images/classicubeg3install/actionretroserverip.png">
+<img alt="Server IP with Port" src="{{site.baseurl}}/assets/images/classicubeg3install/actionretroserverip.png">
 
 After some light research I had learned that because my iMac was still on `10.3.9` it would be unable to play the funny block game `:disintegrate:`. It was from here, that I knew my quest. Find and assemble a team! A DVD with the 10.4 installer and a USB drive to boot! I was excited and ready to give the machine a much needed upgrade. However, as I soon found out, a G3 cannot boot from USB :(.
 
@@ -25,7 +25,7 @@ But then I remembered the Startup Disk utility in settings! I quickly set the Fi
 
 After much tension the install screen appeared! Finally my work had paid off and We were in 10.4!
 
-<img alt="BSD MAGIC" src="/assets/images/classicubeg3install/g3tigerinstall2.png">
+<img alt="BSD MAGIC" src="{{site.baseurl}}/assets/images/classicubeg3install/g3tigerinstall2.png">
 
 The installer ran smoothly and gave me the option to upgrade my system so all my files were saved! **Hooray!!** I really struggled to find a similar solution online and I'm happy to report this works! Let me put it into steps...
 
@@ -45,4 +45,4 @@ All because I didn't have a FireWire disc drive... did I mention I bought one be
 
 All I had to do was run ClassicCube again WITH the port and BOOM!
 
-<img alt="ClassiCube, a Minecraft Clone remade in C++, running on an iMac G3." src="/assets/images/classicubeg3install/classicubeg3tiger.png">
+<img alt="ClassiCube, a Minecraft Clone remade in C++, running on an iMac G3." src="{{site.baseurl}}/assets/images/classicubeg3install/classicubeg3tiger.png">
