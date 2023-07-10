@@ -1,3 +1,3 @@
 ## Welcome to my blog
 
-Please visit dangreene0.github.io/blog
+Please visit https://dangreene0.github.io/blog
