@@ -31,7 +31,7 @@ After much tension the install screen appeared! Finally my work had paid off and
 The installer ran smoothly and gave me the option to upgrade my system so all my files were saved! **Hooray!!** I really struggled to find a similar solution online and I'm happy to report this works! Let me put it into steps...
 
 ## HOW TO INSTALL MAC OS X 10.4 FROM FIREWIRE HARD DRIVE
-1. ACQUIRE FIREWIRE HARD DRIVE.
+1. ACQUIRE 5GB+ FIREWIRE HARD DRIVE.
 2. PRAY.
 3. ACQUIRE MAC OS X 10.4 DVD ISO FROM ARCHIVE.ORG.
 4. USE `dd` TO FORMAT IT TO `.img` AND PLACE IT ON A 5GB+ USB.
