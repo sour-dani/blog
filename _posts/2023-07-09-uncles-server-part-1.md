@@ -29,7 +29,7 @@ It brought the project to a screeching halt and something my uncle neglected to 
 
 <img width="700" alt="Mac Mini Circa 2015 connected to Thunderbolt 2 Drive bay" src="{{site.baseurl}}/assets/images/uncles-server/macminibay.png">
 
-I took the bay and 4 drives home and sure enough it worked fine on my 10.14 Mojave Mac Mini. Something else I noticed was that the iMac had Thunderbolt firmware of 28.4, I believe it might be too high to support Thunderbolt 2. Any research I've done on this topic was inconclusive so I hope it's as simple as installing Mojave on the iMac. I have read that some people have experienced luck with [installing 1.8.5 Mountain Lion and reinstalling Thunderbolt Firmware updates](https://www.ifixit.com/Answers/View/481122/Thunderbolt+Port+not+working+correctly!)].
+I took the bay and 4 drives home and sure enough it worked fine on my 10.14 Mojave Mac Mini. Something else I noticed was that the iMac had Thunderbolt firmware of 28.4, I believe it might be too high to support Thunderbolt 2. Any research I've done on this topic was inconclusive so I hope it's as simple as installing Mojave on the iMac. I have read that some people have experienced luck with [installing 1.8.5 Mountain Lion and reinstalling Thunderbolt Firmware updates](https://www.ifixit.com/Answers/View/481122/Thunderbolt+Port+not+working+correctly!).
 
 [comment]: Include image of firmware number
 
