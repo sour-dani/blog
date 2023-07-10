@@ -3,7 +3,7 @@ title: "The Quest for ClassiCube - Mac OS X 10.4 installer booting from FireWire
 layout: post
 ---
 
-<img alt="Mac OS X 10.4 Tiger install from FireWire Drive" src="{{site.baseurl}}/assets/images/classicubeg3install/g3tigerinstall1.png">
+<img width="500" alt="Mac OS X 10.4 Tiger install from FireWire Drive" src="{{site.baseurl}}/assets/images/classicubeg3install/g3tigerinstall1.png">
 
 6 days ago **Action Retro** posted an [IP to his ClassiCube server on twitter](https://twitter.com/ActionRetro1/status/1675976443908505601). In the tweet he stated *"Connecting from old Macs in encouraged, but not required :)"* and I took that personally. I have a 2001 slot loader iMac that I bought for a decent price on Mercari and I pretty much specifically bought it to play [Bugdom](https://github.com/jorio/Bugdom/releases) natively.
 
