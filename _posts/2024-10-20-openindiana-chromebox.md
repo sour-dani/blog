@@ -1,5 +1,5 @@
 ---
-title: "OpenIndiana on Chromebox: Tomorrows Solaris on yesterday's "
+title: "OpenIndiana on Chromebox: Tomorrows Solaris on yesterday's machines"
 layout: post
 ---
 
