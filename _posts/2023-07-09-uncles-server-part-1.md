@@ -1,5 +1,5 @@
 ---
-title: "How we turned his old Mac into something useful - An excuse to hangout with my uncle - Part One"
+title: "How we turned his old Mac into something useful: An excuse to hangout with my uncle - Part One"
 layout: post
 published: true
 ---
