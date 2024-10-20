@@ -1,5 +1,5 @@
 ---
-title: "The Quest for ClassiCube - Mac OS X 10.4 installer booting from FireWire Drive"
+title: "The Quest for ClassiCube: Mac OS X 10.4 installer booting from FireWire Drive"
 layout: post
 ---
 
