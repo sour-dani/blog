@@ -1,6 +1,7 @@
 ---
 title: "OpenIndiana on Chromebox: Tomorrow's Solaris on yesterday's machines"
 layout: post
+published: true
 ---
 
 <img width="500" alt="OpenIndiana installed on a jailbroken Chromebox" src="{{site.baseurl}}/assets/images/chromebox/openindianachromebox.jpg">
