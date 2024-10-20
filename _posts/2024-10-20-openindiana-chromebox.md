@@ -10,6 +10,7 @@ Solaris is an OS we're all somewhat familiar with but consider it some kind of m
 
 What if I told you that there was... another way... some kind of way to... free... your mind...
 
+
 Illumos is the kernel inside OpenIndiana. It powers the very soul of the OS. Illumos itself is based on OpenSolaris which was freaking [led by the same guy who made Debian](https://docs.openindiana.org/misc/openindiana/#why-is-it-called-openindiana)! OpenSolaris was kicking around for a few years but the gates were sealed off when Oracle stepped into the picture. They walled off the Solaris garden forever sealing it's fate as just another enterprise Unix OS.
 
 ## NOT ALL IS LOST!!
