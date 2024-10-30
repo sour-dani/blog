@@ -1,6 +1,7 @@
 ---
 title: "How to jailbreak a Chromebox in 2023"
 layout: post
+published: false
 ---
 
 Jailbreaking a Chromebox is easier then ever in the modern era, [there's a whole website dedicated to it](https://mrchromebox.tech/). The work done by the contributors has been a tremendous help in giving these old Chromeboxes a second life. Who knows, maybe it will end up in your server rack or in your homelab just like mine! These guys are perfect for running Jellyfin instances, ClassiCube, OMV or Samba servers. You name it, it can handle it! While it's only a Celeron CPU, there's plenty of uses in home automation, and it's even cheaper than a RPi 4. I invested in one before the resurgence of Pi's and because an RPi 3A+ just couldn't handle the workload. It would crash and lock the entire system when attempting to encode a movie.

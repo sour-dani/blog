@@ -1,6 +1,7 @@
 ---
 title: "The Quest for ClassiCube: Mac OS X 10.4 installer booting from FireWire Drive"
 layout: post
+published: true
 ---
 
 <img width="500" alt="Mac OS X 10.4 Tiger install from FireWire Drive" src="{{site.baseurl}}/assets/images/classicubeg3install/g3tigerinstall1.png">

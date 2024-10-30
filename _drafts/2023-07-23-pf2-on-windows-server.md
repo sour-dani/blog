@@ -1,6 +1,7 @@
 ---
 title: "Pre-Fortress 2 on Windows Server Core - [(Don't Fear) The Command Line](https://www.youtube.com/watch?v=Dy4HA3vUv2c)"
 layout: post
+published: false
 ---
 
 Pre-Fortress 2 community servers are hosted by a variety of gamers with varying systems. Some of them run the server off a spare PC in their living room, others use full on Container based systems. However, if there's one thing that is prevalent among the popular servers is that they run *[Windows Server](https://www.youtube.com/watch?v=Oc7Cin_87H4)*. As much as I'd like them to get over their fear of Linux, I understand how intimidating CLI is to new server hosts. To tell the truth, it was only 3 years ago that I was hosting discord bots on a copy of Ubuntu Server where I installed Xorg just so I didn't have to use the command line. 
