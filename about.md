@@ -10,6 +10,6 @@ I hope you find something you like!
 
 ## My Links:
 - [BlueSky](https://sourdani.dev)
-- [GitHub](https://github.com/dangreene0/)
+- [GitHub](https://github.com/sour-dani/)
 - [Codeberg](https://codeberg.org/sour_dani)
 - [Email](mailto:sourdanidev@gmail.com)
