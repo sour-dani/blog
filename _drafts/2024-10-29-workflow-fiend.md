@@ -1,5 +1,5 @@
 ---
-title: "Problem solving by problem solving by problem solving by problem solving: Workflow⁴"
+title: "Problem solving by problem solving by problem solving by problem solving: Workflow"
 layout: post
 published: false
 ---
